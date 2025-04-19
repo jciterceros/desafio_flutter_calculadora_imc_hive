@@ -85,3 +85,23 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 2. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/desafio_flutter_calculadora_imc_hive.git
+
+### Navegando pela aplicação
+
+<p align="center">
+    <a href="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/home_page.png" target="blank">
+        <img src="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/home_page.png" width="600" alt="Home Page" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/showDialog.png" target="blank">
+        <img src="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/showDialog.png" width="600" alt="Show Dialog" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/result_page.png" target="blank">
+        <img src="https://github.com/jciterceros/desafio_flutter_calculadora_imc_hive/blob/d4cab352c18ef387fa55616bf5469cb01e2004e2/assets/result_page.png" width="600" alt="Result Page" />
+    </a>
+</p>
